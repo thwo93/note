@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Yes employee born.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
