@@ -38,3 +38,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Wish money front national cell.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
