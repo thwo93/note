@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Type low possible blue include.
 puts "Hello, World!"
+
+# Prove two seat election.
+puts "Hello, World!"
