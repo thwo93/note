@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Surface third allow might.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
