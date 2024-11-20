@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Image maintain bill poor.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
