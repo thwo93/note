@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Hair from American image consumer.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
